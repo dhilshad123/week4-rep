@@ -3,10 +3,9 @@ public class NewClass {
     int x ;
     int y ;
 
-    public NewClass( int x , int y,int z){
+    public NewClass( int x , int y){
         this.x = x;
         this.y = y;
-        this.z = z;
     }
     
 }
